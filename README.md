@@ -1,0 +1,1 @@
+Personal site created with Hugo. Using Hermit theme found here: https://github.com/Track3/hermit
